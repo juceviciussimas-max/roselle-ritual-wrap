@@ -4,4 +4,4 @@ Standalone editorial landing page for an adjustable fabric face wrap. Open `inde
 
 The product CTA goes to the original AliExpress listing. No orders or payments are processed by this site. The three editorial images are AI-generated concepts and are labelled as illustrative on the page. Replace them with verified product photos before representing this as a store for a specific SKU.
 
-The page uses local GSAP/ScrollTrigger for desktop motion. Touch devices, reduced-motion preferences and data saver get a static layout with native scrolling.
+The page uses local GSAP/ScrollTrigger for five full-screen desktop chapters. Touch devices, reduced-motion preferences and data saver get a linear layout with native scrolling.
